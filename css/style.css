@@ -1,0 +1,79 @@
+
+body{
+    background-image:  url("https://thumbs.dreamstime.com/z/escena-subacu%C3%A1tica-con-el-arrecife-de-coral-tropical-98550456.jpg")  ;
+}
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo {
+  width: 28px;
+  height: auto;
+  position: absolute;
+  left: 40px;
+  top: 40px;
+}
+#hombre {
+
+  width: 17rem;
+  height: 13rem;
+  border: solid 1px black;
+  display: inline-block;
+}
+.hombreAhorcado {
+  max-width: 600%;
+  max-height: 100%;
+  text-align: center;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+
+}
+.correcto{
+   text-align: center;
+   color: black;
+   font-size: 2rem;
+    
+}
+.correcta{
+    width: 4.5rem;
+    height: 4.5rem;
+    border-bottom: solid 1px black;
+    margin-left: 0.4rem;
+    line-height: 4.5rem;
+}
+.errada{
+    margin-left: 1rem;
+}
+.errado{
+text-align: center;
+margin-top: 1rem;
+color: black;
+}
+.letra{
+    
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+}
+
+button{
+    width: 15rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    border:solid 1px black;
+    color:rgb(39, 208, 33);
+    background: inherit;
+    cursor: pointer;
+
+
+}
+.misBotones{
+    text-align: center;
+    margin-top: 3rem;
+}
+.btn-verde{
+    background-color: rgb(39, 208, 33);
+    color: #fff;
+    border-color:rgb(39, 208, 33);
+    
+}
